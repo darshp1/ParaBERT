@@ -6,7 +6,7 @@
   <table>
   <tr><h3><b>Group Number: 42</b></h3</tr>
   <tr>
-  <td><b>Team Members</b></td><td>Kriti Asija</td><td>Parth Rohilla</td><td>Nishthavan Dahiya</td> <td>Darsh Patel</td><td>Soham Khade</td>
+  <td><b>Team Members</b></td><td>Darsh Patel</td><td>Parth Rohilla</td><td>Nishthavan Dahiya</td> <td>Kriti Asija</td><td>Soham Khade</td>
   </tr>
   </table>
 
